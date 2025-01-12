@@ -12,4 +12,4 @@ def pascal_triangle(n):
             print(comb(i,j), end=" ")
         print("\n")
 
-pascal_triangle(10)
+pascal_triangle(15)
